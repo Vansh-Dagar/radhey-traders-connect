@@ -194,25 +194,6 @@ const Contact = () => {
         </div>
       </section>
 
-      {/* Map Section */}
-      <section className="py-16 bg-secondary">
-        <div className="container mx-auto px-4">
-          <div className="text-center mb-8">
-            <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-              Find Us on the Map
-            </h2>
-            <p className="text-lg text-muted-foreground">
-              Visit our showroom to see our products in person
-            </p>
-          </div>
-          <div className="rounded-lg overflow-hidden shadow-lg h-96 bg-muted flex items-center justify-center">
-            <p className="text-muted-foreground">
-              Map integration placeholder - Add your Google Maps embed here
-            </p>
-          </div>
-        </div>
-      </section>
-
       <Footer />
     </div>
   );
