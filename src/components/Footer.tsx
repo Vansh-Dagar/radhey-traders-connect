@@ -68,19 +68,19 @@ const Footer = () => {
               <li className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 mt-1 flex-shrink-0 text-accent" />
                 <span className="text-primary-foreground/80">
-                  123 Trading Street, Business District, City 12345
+                  Plot No. 275, Dehradun Road, Chandra Motor Workshop, Transport Nagar, Saharanpur - 247001 (U.P.)
                 </span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 flex-shrink-0 text-accent" />
-                <a href="tel:+1234567890" className="text-primary-foreground/80 hover:text-accent transition-colors">
-                  +91 123 456 7890
+                <a href="tel:+917300760139" className="text-primary-foreground/80 hover:text-accent transition-colors">
+                  +91 73007 60139
                 </a>
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 flex-shrink-0 text-accent" />
-                <a href="mailto:info@radheytraders.com" className="text-primary-foreground/80 hover:text-accent transition-colors">
-                  info@radheytraders.com
+                <a href="mailto:traders.radhey.sre@gmail.com" className="text-primary-foreground/80 hover:text-accent transition-colors">
+                  traders.radhey.sre@gmail.com
                 </a>
               </li>
             </ul>

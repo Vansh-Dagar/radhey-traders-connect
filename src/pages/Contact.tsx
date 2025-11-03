@@ -44,17 +44,17 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      details: ["123 Trading Street", "Business District, City 12345"],
+      details: ["Plot No. 275, Dehradun Road, Chandra Motor Workshop", "Transport Nagar, Saharanpur - 247001 (U.P.)"],
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 123 456 7890", "+91 098 765 4321"],
+      details: ["+91 73007 60139"],
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@radheytraders.com", "sales@radheytraders.com"],
+      details: ["traders.radhey.sre@gmail.com"],
     },
     {
       icon: Clock,
